@@ -13,7 +13,7 @@
   "author": "DongDev-Pcoder",
   "dependencies": {
     "@distube/ytdl-core": "^4.16.2",
-    "@dongdev/fca-unofficial": "^0.0.4",
+    "sagor-z-fca": "^1.0.20",
     "@mherod/get-cookie": "^4.2.2",
     "@miraipr0ject/assets": "^1.0.9",
     "aes-js": "^3.1.2",
